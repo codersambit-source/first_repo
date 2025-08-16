@@ -1,3 +1,4 @@
 # first_repo
-This is my first GitHub repository \n
+This is my first GitHub repository
+<br>
 Author - Sambit Bhakat
